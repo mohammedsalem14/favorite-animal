@@ -48,7 +48,11 @@ domestic dog (Canis familiaris) with a gray wolf (Canis lupus),
 <h2 style="color:red;">what is the conditions required to own wolf dog:</h2>
 <center>
 <h3 style="color:blue;">It is recommended to have at least a half acre fenced area with proper fencing all around the enclosure. To reduce the chances of a wolf dog being able to escape, fencing should be at least eight feet tall and have dig barriers (buried fencing, concrete edging, etc) around the perimeter of the entire enclosure.</h3>
-<h1>Made by Mohammed Ahmed Salem</h1>
  </center>
 </body>
-</html>
+<center>
+<h2>
+<a href="https://wolf.org/wolf-info/basic-wolf-info/wolves-and-humans/wolf-dog-hybrids/">For more information press here</a>
+</h2>
+<h1>Made by Mohammed Ahmed Salem</h1>
+</center>
