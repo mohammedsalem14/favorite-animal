@@ -21,7 +21,7 @@
 <br>
 
 
-<img src="wolf_dog" alt="Trulli" width="333" height="333">
+<img src="wolf_dog.jpg" alt="Trulli" width="333" height="333">
 
 
 
